@@ -18,3 +18,5 @@ Argo CD GitOps, and Prometheus/Grafana/Loki monitoring. Here I keep my **hands-o
 **IaC:** Terraform, Ansible · **CI/CD:** Jenkins, GitHub Actions, Argo CD ·
 **Containers:** Docker, Kubernetes, Helm · **Monitoring:** Prometheus, Grafana, Loki ·
 **Security:** Trivy, Semgrep, Gitleaks, Vault · **Code:** Bash, Python
+
+📌 My projects are pinned below. Each README explains the architecture, how to run it and what I fixed.
